@@ -1,6 +1,6 @@
 # trust-factory-demo
 
-A small demo project for [trust-factory](https://github.com/onishimura/trust-factory). trust-factory builds its issues with agents, checks each PR with fixed checks and a verifier agent, and records each run.
+A small demo project for [agent-works](https://github.com/onishimura/agent-works). agent-works builds its issues with agents, checks each PR with fixed checks and a verifier agent, and records each run.
 
 pocketlib has small helpers for text, prices and durations. Python 3.9, standard library only.
 

@@ -25,7 +25,7 @@
     "protected_paths": [
       ".github/**",
       ".claude/**",
-      ".trust-factory/**",
+      ".agent-works/**",
       "**/auth/**",
       "**/payments/**",
       "**/migrations/**"

@@ -1,4 +1,4 @@
-# trust-factory-demo
+# agent-works-demo
 
 A small demo project for [agent-works](https://github.com/onishimura/agent-works). agent-works builds its issues with agents, checks each PR with fixed checks and a verifier agent, and records each run.
 
